@@ -1,0 +1,5 @@
+def outer_funnction()
+      def inner_function()
+            print("This is the Python Functions")
+            inner_function()
+outer_function()

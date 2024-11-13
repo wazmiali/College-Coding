@@ -1,0 +1,3 @@
+This is my Python first file in this document.
+This is a review on this file.
+This is only a file write mode in python.
