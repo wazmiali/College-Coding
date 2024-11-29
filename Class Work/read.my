@@ -1,0 +1,6 @@
+Write a program in python leap year 
+month = 2
+year = 2024 
+
+output is 
+year 2024 is leap year and days in 2nd months
