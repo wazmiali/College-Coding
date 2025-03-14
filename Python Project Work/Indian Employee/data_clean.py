@@ -19,7 +19,6 @@
 
 # print('Missing values in the dataset after cleaning:')
 
-
 import numpy as np
 import pandas as pd
 
@@ -50,6 +49,9 @@ df.fillna(df.mean(numeric_only=True), inplace=True)
 
 # Removing duplicate rows
 df.drop_duplicates(inplace=True)
+
+# Save the cleaned dataset to a new CSV file
+df.to_csv(r'D:\Python Video Notes\Python Project Work\Indian Employee\Toyota_Cleaned.csv', index=False)
 
 # Check for missing values after cleaning
 print('Missing values in the dataset after cleaning:')
