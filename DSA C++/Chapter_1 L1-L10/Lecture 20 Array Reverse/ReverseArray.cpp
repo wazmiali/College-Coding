@@ -1,7 +1,7 @@
 #include <iostream>
 #include <vector>
 using namespace std;
-
+// use vector 
 vector<int> reverse(vector<int> v)
 {
 
