@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-
+// Add a new element in the array
 void update(int arr[], int n){
 
       cout << endl <<"Insert the function"<<endl;
