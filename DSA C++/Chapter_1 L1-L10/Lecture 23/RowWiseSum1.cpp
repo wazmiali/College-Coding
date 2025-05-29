@@ -1,3 +1,5 @@
+// Row wise sum 
+
 // i -> is the Row
 // j -> is the column
 #include <iostream>
