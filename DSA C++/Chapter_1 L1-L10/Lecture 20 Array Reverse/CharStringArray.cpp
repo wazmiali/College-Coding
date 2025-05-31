@@ -1,3 +1,5 @@
+// Character string Array
+
 #include <iostream>
 using namespace std;
 
