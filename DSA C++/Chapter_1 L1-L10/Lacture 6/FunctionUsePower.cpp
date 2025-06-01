@@ -1,3 +1,5 @@
+// Function use to Power 
+
 #include <iostream>
 using namespace std;
 
