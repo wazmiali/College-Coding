@@ -1,3 +1,5 @@
+// Array scpope and update array add new element
+
 #include <iostream>
 using namespace std;
 // Add a new element in the array
