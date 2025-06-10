@@ -1,4 +1,4 @@
-// Priority Queue 
+// Priority Queue push and pop element
 
 #include <iostream>
 #include <queue>
