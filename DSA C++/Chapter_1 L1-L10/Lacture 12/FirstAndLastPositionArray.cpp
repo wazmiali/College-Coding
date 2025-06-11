@@ -1,3 +1,5 @@
+//Find the first and last position of array 
+
 #include <iostream>
 using namespace std;
 
