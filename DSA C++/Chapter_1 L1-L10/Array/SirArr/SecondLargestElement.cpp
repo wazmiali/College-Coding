@@ -9,6 +9,7 @@ int getSecondLargest(vector<int> &arr)
 {
       int n = arr.size();
 
+// Sort the array and arrange all element in the array 
       sort(arr.begin(), arr.end());
 
       for (int i = n - 2; i >= 0; i--)
