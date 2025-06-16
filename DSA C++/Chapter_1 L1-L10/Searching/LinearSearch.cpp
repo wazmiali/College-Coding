@@ -17,7 +17,7 @@ bool search(int arr[], int size, int key)
 
 int main()
 {
-
+// Array to insert data in linear search 
       int arr[10] = {5, 7, -2, 10, 22, -2, 0, 5, 22, 1};
 
       cout << "Enter the element to search for:  ";
