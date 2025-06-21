@@ -28,7 +28,7 @@ int firstOcc(int arr[], int n, int key)
       }
       return ans;
 }
-
+// Main function 
 int lastOcc(int arr[], int n, int key)
 {
       int start = 0, end = n - 1;
