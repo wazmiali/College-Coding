@@ -26,7 +26,7 @@ void swapAlternate(int arr[], int size)
 
 int main()
 {
-
+// element  index 8 in array 
       int even[8] = {5, 2, 9, 4, 7, 6, 1, 0};
       int odd[5] = {11, 33, 9, 76, 43};
 
