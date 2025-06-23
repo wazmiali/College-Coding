@@ -1,3 +1,5 @@
+// Diamond Pattern
+
 public class Pattern14Diamond {
     public static void main(String[] args) {
         int n = 4;
