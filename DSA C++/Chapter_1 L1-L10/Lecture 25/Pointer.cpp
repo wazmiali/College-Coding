@@ -1,4 +1,4 @@
-// Pointer
+// Use pointer
 
 #include <iostream>
 using namespace std;
@@ -28,4 +28,5 @@ int main()
       cout << " Size of pointer is  " << sizeof(p2) << endl;
 
       return 0;
+
 }
