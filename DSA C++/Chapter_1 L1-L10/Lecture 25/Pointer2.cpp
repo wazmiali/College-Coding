@@ -13,6 +13,7 @@ int main()
       int i = 5;
 
       //Two way to initialize 
+      // use a ptr pointer address
       int *ptr = &i;
       cout << ptr << endl;
       cout << *ptr << endl;
@@ -23,4 +24,5 @@ int main()
 
       cout << p << endl;
       cout << *p << endl;
+
 }
