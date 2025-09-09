@@ -1,3 +1,4 @@
+// Selection Sort
 #include <stdio.h>
 
 void printArray(int *A, int n)
@@ -40,4 +41,5 @@ int main()
       printArray(A, n);
 
       return 0;
+
 }
