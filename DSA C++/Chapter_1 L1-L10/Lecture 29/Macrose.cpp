@@ -1,3 +1,4 @@
+// Use Macros reduce code repetition and improve efficiency by substituting code at compile time.
 #include <iostream>
 using namespace std;
 
@@ -11,4 +12,5 @@ int main()
       cout <<"Area is: " << area << endl;
 
       return 0;
+
 }
