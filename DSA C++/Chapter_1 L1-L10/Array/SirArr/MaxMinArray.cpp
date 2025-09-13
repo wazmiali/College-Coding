@@ -1,3 +1,4 @@
+// Maximum and minimum array
 #include <iostream>
 #include <climits>
 using namespace std;
@@ -44,4 +45,5 @@ int main()
       cout << "Minimum value is " << getMin(num, size) << endl;
 
       return 0;
+
 }
