@@ -67,7 +67,7 @@ char getMaxOccCharacter(string s)
       {
             char ch = s[i];
             int number = 0;
-            number = ch - 'a'; // FIXED: removed `int`
+            number = ch - 'a';
             arr[number]++;
       }
       int maxi = -1, ans = 0;
@@ -115,3 +115,4 @@ int main()
 
       return 0;
 }
+
