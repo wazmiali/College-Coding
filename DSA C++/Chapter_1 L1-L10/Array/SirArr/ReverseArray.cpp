@@ -14,6 +14,7 @@ void reverse(int arr[], int n){
       }
 }
 
+// Print Function to show the value
 void printArray(int arr[], int n)
 {
 
@@ -38,3 +39,4 @@ DIY
 
       return 0;
 }
+
