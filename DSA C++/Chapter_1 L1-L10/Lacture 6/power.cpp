@@ -1,3 +1,4 @@
+// Power
 #include <iostream>
 using namespace std;
 
@@ -17,4 +18,5 @@ int main()
       cout << "answer is " << ans << endl;
 
       return 0;
+
 }
