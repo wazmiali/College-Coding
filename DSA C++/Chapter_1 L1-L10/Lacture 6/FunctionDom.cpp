@@ -1,3 +1,4 @@
+// Function Dom
 #include <iostream>
 using namespace std;
 
@@ -28,5 +29,6 @@ int main(){
       int a = 14;
       a = update(a);
       cout<< a << endl;
+
 
 }
