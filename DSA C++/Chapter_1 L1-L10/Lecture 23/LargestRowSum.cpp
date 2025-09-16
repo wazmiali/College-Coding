@@ -18,7 +18,7 @@ bool isPresent(int arr[][3], int target, int i, int j)
     }
     return false;
 }
-
+// Sum function 
 void printSum(int arr[][3], int i, int j)
 {
     cout << "Printing Sum ->" << endl;
@@ -86,3 +86,4 @@ int main()
 
     return 0;
 }
+
