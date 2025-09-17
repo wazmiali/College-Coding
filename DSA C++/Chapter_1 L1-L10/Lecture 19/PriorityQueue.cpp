@@ -12,7 +12,7 @@ int main()
       // min heap
       priority_queue<int, vector<int> , greater<int> > mini;
 
-
+// Push the element
       maxi.push(1);
       maxi.push(3);
       maxi.push(2);
@@ -44,3 +44,4 @@ int main()
       cout<<endl;
 
 }
+
