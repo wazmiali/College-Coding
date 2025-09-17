@@ -1,3 +1,4 @@
+// Mearge Sort
 #include <stdio.h>
 
 void printArray(int *A, int n)
@@ -76,3 +77,4 @@ int main()
 
       return 0;
 }
+
