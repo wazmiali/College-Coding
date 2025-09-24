@@ -1,3 +1,5 @@
+// Queue using array
+
 #include<stdio.h>
 #include<stdlib.h>
 
@@ -41,7 +43,7 @@ int dequeue(struct queue*q){
             a = q->arr[q->f];
       }
 }
-
+// main function insert the element 
 int main(){
       struct queue q;
       q.size = 100;
@@ -64,4 +66,5 @@ int main(){
       }
       
       return 0; 
+
 } 
