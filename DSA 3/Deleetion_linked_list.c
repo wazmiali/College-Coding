@@ -26,7 +26,7 @@ struct Node *deleteAtFirst(struct Node *head, int index)
       return head;
 }
 
-// Case2: Deletion the element at a given index from the linked list
+// Case2: Deletion the element at a given index from the linked list.
 struct Node *deleteAtIndex(struct Node *head, int index)
 {
       struct Node *p = head;
@@ -59,7 +59,7 @@ struct Node *deleteAtLast(struct Node *head)
       return head;
 }
 
-// Case4: Deletion the element with a given value from the linked list
+// Case4: Deletion the element with a given value from the linked list.
 struct Node *deleteAtIndex(struct Node *head, int value)
 {
       struct Node *p = head;
@@ -116,4 +116,5 @@ int main()
 
       return 0;
 }
+
 
