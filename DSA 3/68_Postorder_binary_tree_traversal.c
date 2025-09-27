@@ -3,6 +3,7 @@
 #include <stdio.h>
 #include <stdlib.h> 
 
+// Left RIght node
 struct node
 {
     int data;
@@ -66,3 +67,4 @@ int main()
 
     return 0;
 }
+
