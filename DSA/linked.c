@@ -1,3 +1,4 @@
+// Linked list
 #include<stdio.h>
 #include<stdlib.h>
 
@@ -70,4 +71,5 @@ int main(){
       display(&stack);
       
       return 0;
+
 }
