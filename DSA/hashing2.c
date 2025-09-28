@@ -1,3 +1,4 @@
+// Hashing 
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -11,7 +12,7 @@ struct Node {
 int hashFunction(int key) {
     return key % TABLE_SIZE;
 }
-
+// create a function 
 void insert(struct Node* hashTable[], int key) {
     int index = hashFunction(key);
     struct Node* newNode = (struct Node*)malloc(sizeof(struct Node));
@@ -64,3 +65,4 @@ int main() {
 
     return 0;
 }
+
