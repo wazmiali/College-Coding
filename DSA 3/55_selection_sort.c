@@ -25,6 +25,7 @@ void selectionSort(int *A, int n)
                         indexOfMin = j;
                   }
             }
+            // Swap the value
             temp = A[i];
             A[i] = A[indexOfMin];
             A[indexOfMin] = temp;
@@ -46,5 +47,6 @@ int main()
 }
 
 // Selection Sort
+
 
 
