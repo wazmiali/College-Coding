@@ -43,7 +43,7 @@ void countSort(int *A, int n)
       {
             count[A[i]] = count[A[i]] + 1;
       }
-      i = 0; // counter for a count array
+      i = 0; // counter for a count arr
       j = 0; // counter for a given arr
 
       while (i <= max)
@@ -73,4 +73,5 @@ int main()
 
       return 0;
 }
+
 
