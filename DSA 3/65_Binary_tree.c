@@ -8,7 +8,7 @@ struct node
       struct node *left;
       struct node *right;
 };
-
+// create a function binary tree
 struct node *createNode(int data)
 {
       struct node *n;                                 // Creating a node pointer
@@ -56,4 +56,5 @@ int main()
       p->right = p2;
 
       return 0;
+
 }
