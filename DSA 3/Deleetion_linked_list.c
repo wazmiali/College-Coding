@@ -7,7 +7,7 @@ struct Node
       int data;
       struct Node *next;
 };
-
+// function 
 void linkedListTraversal(struct Node *ptr)
 {
       while (ptr != NULL)
@@ -116,5 +116,6 @@ int main()
 
       return 0;
 }
+
 
 
