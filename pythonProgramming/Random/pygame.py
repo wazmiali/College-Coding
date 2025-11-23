@@ -1,3 +1,4 @@
+# Game
 import pygame
 import sys
 import random
@@ -47,3 +48,4 @@ while True:
     pygame.time.delay(500)
 
 # Note: This program will continue running until you close the window. You can exit by clicking the close button on the window.
+
